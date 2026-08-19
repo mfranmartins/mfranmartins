@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 <img src="./assets/hero.svg" width="100%" alt="Fran Martins - Software Developer">
 
 </div>
@@ -10,7 +8,7 @@
   <img src="./assets/about-me.svg" width="800" alt="About Me"/>
 </div>
 
-<!--Hi! I'm Fran, a Computer Science student at FIAP, building my
+Hi! I'm Fran, a Computer Science student at FIAP, building my
 foundation as a Software Developer while exploring different areas
 of technology.
 
@@ -27,55 +25,33 @@ system work together to turn ideas into real products.
 Right now, my focus is on learning, building projects and continuously
 improving my skills as I shape my path in software development.
 
-This GitHub is a collection of that journey. -->
+This GitHub is a collection of that journey.
 
 <div align="center">
   <img src="./assets/tech-stack.svg" width="800" alt="Tech Stack"/>
 </div>
+
 <div align="center">
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=DBF227" />
 
-<!--<img src="https://img.shields.io/badge/Python-DBF227?style=for-the-badge&logo=python&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Java-DBF227?style=for-the-badge&logo=openjdk&logoColor=111111"/>
-<img src="https://img.shields.io/badge/C%23-DBF227?style=for-the-badge&logo=csharp&logoColor=111111"/>
-<img src="https://img.shields.io/badge/JavaScript-DBF227?style=for-the-badge&logo=javascript&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=DBF227" />
 
-<img src="https://img.shields.io/badge/HTML5-DBF227?style=for-the-badge&logo=html5&logoColor=111111"/>
-<img src="https://img.shields.io/badge/CSS3-DBF227?style=for-the-badge&logo=css3&logoColor=111111"/>
-<img src="https://img.shields.io/badge/SQL-DBF227?style=for-the-badge&logo=postgresql&logoColor=111111"/>
-
-<img src="https://img.shields.io/badge/Arduino-DBF227?style=for-the-badge&logo=arduino&logoColor=111111"/>
-<img src="https://img.shields.io/badge/ESP32-DBF227?style=for-the-badge&logo=espressif&logoColor=111111"/>
-<img src="https://img.shields.io/badge/Git-DBF227?style=for-the-badge&logo=git&logoColor=111111"/>
-<img src="https://img.shields.io/badge/GitHub-DBF227?style=for-the-badge&logo=github&logoColor=111111"/>
-
+  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=DBF227" />
 </div>
-
-<br>
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>-->
 
 <div align="center">
   <img src="./assets/github-activity.svg" width="800" alt="GitHub Activity"/>
 </div>
 
-<div align="center">
+<!--<div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -95,21 +71,53 @@ This GitHub is a collection of that journey. -->
     alt="GitHub Contribution Graph"
   />
 
-</div>
+</div>-->
 
 <div align="center">
-
   <img
-    src="https://raw.githubusercontent.com/mfranmartins/mfranmartins/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/mfranmartins/mfranmartins/gh-pages/github-snake.svg"
     width="850"
     alt="GitHub Contribution Snake"
   />
+</div>
+
+<div align="center">
+  <img src="./assets/lets-connect.svg" width="800" alt="Let's Connect"/>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mfranmartins/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=DBF227" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mfran.martiins@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=DBF227" alt="Email"/>
+  </a>
+  <a href="https://wa.me/5511912353101">
+    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=DBF227" alt="WhatsApp"/>
+  </a>
+<p align="center">
+  <sub>Always open to new ideas, collaborations and opportunities.</sub>
+</p>
 
 </div>
-<!-- MUSIC -->
 
-<!-- CONTACT -->
+<br>
 
-<!-- FOOTER -->
+<div align="center">
+  <img
+    src="./assets/killjoy.gif"
+    width="320"
+    alt="Killjoy"
+  />
+  <p align="center">
+  <i>Building, learning and debugging my way forward.</i>
+</p>
+</div>
 
+<div align="center">
+  <img
+    src="./assets/wave.svg"
+    width="100%"
+    alt=""
+  />
 </div>

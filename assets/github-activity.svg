@@ -1,9 +1,9 @@
 <svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
 
   <line
-    x1="135"
+    x1="1"
     y1="40"
-    x2="250"
+    x2="245"
     y2="40"
     stroke="#DBF227"
     stroke-width="2"
@@ -24,9 +24,9 @@
   </text>
 
   <line
-    x1="550"
+    x1="555"
     y1="40"
-    x2="665"
+    x2="865"
     y2="40"
     stroke="#DBF227"
     stroke-width="2"

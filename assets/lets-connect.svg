@@ -3,7 +3,7 @@
   <line
     x1="1"
     y1="40"
-    x2="267"
+    x2="245"
     y2="40"
     stroke="#DBF227"
     stroke-width="2"
@@ -20,11 +20,11 @@
     letter-spacing="1"
     fill="#DBF227"
   >
-    Tech Stack
+    Let's Connect
   </text>
 
   <line
-    x1="533"
+    x1="555"
     y1="40"
     x2="865"
     y2="40"
