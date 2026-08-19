@@ -1,0 +1,507 @@
+<svg
+  width="1200"
+  height="630"
+  viewBox="0 0 1200 630"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <!-- ============================== -->
+    <!-- BACKGROUND -->
+    <!-- ============================== -->
+
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080808"/>
+      <stop offset="50%" stop-color="#101010"/>
+      <stop offset="100%" stop-color="#080808"/>
+    </linearGradient>
+
+
+    <!-- ============================== -->
+    <!-- YELLOW GLOW -->
+    <!-- ============================== -->
+
+    <radialGradient id="yellowGlow">
+
+      <stop
+        offset="0%"
+        stop-color="#DBF227"
+        stop-opacity="0.32"
+      />
+
+      <stop
+        offset="45%"
+        stop-color="#DBF227"
+        stop-opacity="0.12"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#DBF227"
+        stop-opacity="0"
+      />
+
+    </radialGradient>
+
+
+    <!-- ============================== -->
+    <!-- SHADOW -->
+    <!-- ============================== -->
+
+    <filter id="shadow">
+
+      <feDropShadow
+        dx="0"
+        dy="8"
+        stdDeviation="18"
+        flood-color="#000000"
+        flood-opacity="0.65"
+      />
+
+    </filter>
+
+  </defs>
+
+
+  <!-- ================================================= -->
+  <!-- MAIN CARD -->
+  <!-- ================================================= -->
+
+  <rect
+    x="25"
+    y="25"
+    width="1150"
+    height="580"
+    rx="28"
+    fill="url(#background)"
+    filter="url(#shadow)"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- YELLOW LIGHTS -->
+  <!-- ================================================= -->
+
+  <circle
+    cx="1000"
+    cy="80"
+    r="420"
+    fill="url(#yellowGlow)"
+  >
+
+    <animate
+      attributeName="cx"
+      values="1000;930;1000"
+      dur="18s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <circle
+    cx="160"
+    cy="580"
+    r="330"
+    fill="url(#yellowGlow)"
+    opacity="0.45"
+  >
+
+    <animate
+      attributeName="cx"
+      values="160;230;160"
+      dur="22s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <!-- ================================================= -->
+  <!-- BORDER -->
+  <!-- ================================================= -->
+
+  <rect
+    x="25"
+    y="25"
+    width="1150"
+    height="580"
+    rx="28"
+    fill="none"
+    stroke="#DBF227"
+    stroke-width="1"
+    opacity="0.18"
+  />
+
+
+  <!-- ================================================= -->
+  <!-- PARTICLES -->
+  <!-- ================================================= -->
+
+  <circle
+    cx="130"
+    cy="570"
+    r="2"
+    fill="#FFFFFF"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="cy"
+      values="570;70"
+      dur="13s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.55;0"
+      dur="13s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <circle
+    cx="230"
+    cy="500"
+    r="3"
+    fill="#DBF227"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="cy"
+      values="500;40"
+      dur="19s"
+      begin="2s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.55;0"
+      dur="19s"
+      begin="2s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <circle
+    cx="360"
+    cy="600"
+    r="1.5"
+    fill="#FFFFFF"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="cy"
+      values="600;90"
+      dur="17s"
+      begin="4s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.5;0"
+      dur="17s"
+      begin="4s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <circle
+    cx="480"
+    cy="530"
+    r="2.5"
+    fill="#DBF227"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="cy"
+      values="530;60"
+      dur="15s"
+      begin="1s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="cx"
+      values="480;520;480"
+      dur="15s"
+      begin="1s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.7;0"
+      dur="15s"
+      begin="1s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <circle
+    cx="610"
+    cy="580"
+    r="2"
+    fill="#FFFFFF"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="cy"
+      values="580;30"
+      dur="21s"
+      begin="3s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.4;0"
+      dur="21s"
+      begin="3s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <circle
+    cx="740"
+    cy="540"
+    r="3"
+    fill="#DBF227"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="cy"
+      values="540;80"
+      dur="18s"
+      begin="5s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.55;0"
+      dur="18s"
+      begin="5s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <circle
+    cx="850"
+    cy="610"
+    r="1.5"
+    fill="#FFFFFF"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="cy"
+      values="610;100"
+      dur="14s"
+      begin="1.5s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.5;0"
+      dur="14s"
+      begin="1.5s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <circle
+    cx="970"
+    cy="500"
+    r="2.5"
+    fill="#DBF227"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="cy"
+      values="500;50"
+      dur="20s"
+      begin="6s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.65;0"
+      dur="20s"
+      begin="6s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+
+  <circle
+    cx="1080"
+    cy="570"
+    r="2"
+    fill="#FFFFFF"
+    opacity="0"
+  >
+
+    <animate
+      attributeName="cy"
+      values="570;90"
+      dur="16s"
+      begin="3.5s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;0.5;0"
+      dur="16s"
+      begin="3.5s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+<!-- ================================================= -->
+<!-- FRAN MARTINS -->
+<!-- ================================================= -->
+
+<text
+  x="600"
+  y="315"
+  text-anchor="middle"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="76"
+  font-weight="700"
+  letter-spacing="2"
+  fill="#DBF227"
+  opacity="0"
+>
+
+  Fran Martins
+
+  <!-- Fade in + sobe suavemente -->
+
+  <animate
+    attributeName="opacity"
+    values="0;1"
+    dur="0.6s"
+    begin="0.5s"
+    fill="freeze"
+  />
+
+  <animate
+    attributeName="y"
+    values="335;315"
+    dur="0.7s"
+    begin="0.5s"
+    fill="freeze"
+  />
+
+</text>
+
+<!-- ================================================= -->
+<!-- SOFTWARE DEVELOPER -->
+<!-- ================================================= -->
+
+<text
+  x="600"
+  y="355"
+  text-anchor="middle"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="20"
+  font-weight="400"
+  letter-spacing="7"
+  fill="#F5F5F5"
+  opacity="0"
+>
+
+  SOFTWARE DEVELOPER
+
+  <animate
+    attributeName="opacity"
+    values="0;0.9"
+    dur="0.6s"
+    begin="1.25s"
+    fill="freeze"
+  />
+
+  <animate
+    attributeName="y"
+    values="365;355"
+    dur="0.5s"
+    begin="1.25s"
+    fill="freeze"
+  />
+
+</text>
+
+
+<!-- ================================================= -->
+<!-- DECORATIVE LINE -->
+<!-- ================================================= -->
+
+<line
+  x1="600"
+  y1="390"
+  x2="600"
+  y2="390"
+  stroke="#DBF227"
+  stroke-width="2"
+  stroke-linecap="round"
+  opacity="0"
+>
+
+  <animate
+    attributeName="opacity"
+    values="0;0.65"
+    dur="0.4s"
+    begin="1.95s"
+    fill="freeze"
+  />
+
+  <animate
+    attributeName="x1"
+    values="600;500"
+    dur="0.6s"
+    begin="1.95s"
+    fill="freeze"
+  />
+
+  <animate
+    attributeName="x2"
+    values="600;700"
+    dur="0.6s"
+    begin="1.95s"
+    fill="freeze"
+  />
+
+</line>
+
+
+</svg>
