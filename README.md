@@ -32,19 +32,19 @@ This GitHub is a collection of that journey.
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=DBF227" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=DBF227" />
-  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=DBF227" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=fffb00" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=fffb00" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=fffb00" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=fffb00" />
 
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=DBF227" />
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=DBF227" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=fffb00" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=fffb00" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=fffb00" />
 
-  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=DBF227" />
-  <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=DBF227" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=DBF227" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=DBF227" />
+  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=fffb00" />
+  <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=fffb00" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=fffb00" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=fffb00" />
 </div>
 
 <div align="center">
@@ -87,13 +87,13 @@ This GitHub is a collection of that journey.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mfranmartins/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=DBF227" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=fffb00" alt="LinkedIn"/>
   </a>
   <a href="mailto:mfran.martiins@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=DBF227" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=fffb00" alt="Email"/>
   </a>
   <a href="https://wa.me/5511912353101">
-    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=DBF227" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=fffb00" alt="WhatsApp"/>
   </a>
 <p align="center">
   <sub>Always open to new ideas, collaborations and opportunities.</sub>

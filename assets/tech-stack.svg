@@ -5,7 +5,7 @@
     y1="40"
     x2="267"
     y2="40"
-    stroke="#DBF227"
+    stroke="#fffb00"
     stroke-width="2"
     opacity="0.7"
   />
@@ -18,7 +18,7 @@
     font-size="35"
     font-weight="700"
     letter-spacing="1"
-    fill="#DBF227"
+    fill="#fffb00"
   >
     Tech Stack
   </text>
@@ -28,7 +28,7 @@
     y1="40"
     x2="865"
     y2="40"
-    stroke="#DBF227"
+    stroke="#fffb00"
     stroke-width="2"
     opacity="0.7"
   />

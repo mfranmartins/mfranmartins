@@ -26,19 +26,19 @@
 
       <stop
         offset="0%"
-        stop-color="#DBF227"
+        stop-color="#fffb00"
         stop-opacity="0.32"
       />
 
       <stop
         offset="45%"
-        stop-color="#DBF227"
+        stop-color="#fffb00"
         stop-opacity="0.12"
       />
 
       <stop
         offset="100%"
-        stop-color="#DBF227"
+        stop-color="#fffb00"
         stop-opacity="0"
       />
 
@@ -129,7 +129,7 @@
     height="580"
     rx="28"
     fill="none"
-    stroke="#DBF227"
+    stroke="#FFFB00"
     stroke-width="1"
     opacity="0.18"
   />
@@ -168,7 +168,7 @@
     cx="230"
     cy="500"
     r="3"
-    fill="#DBF227"
+    fill="#fffb00"
     opacity="0"
   >
 
@@ -222,7 +222,7 @@
     cx="480"
     cy="530"
     r="2.5"
-    fill="#DBF227"
+    fill="#fffb00"
     opacity="0"
   >
 
@@ -284,7 +284,7 @@
     cx="740"
     cy="540"
     r="3"
-    fill="#DBF227"
+    fill="#fffb00"
     opacity="0"
   >
 
@@ -338,7 +338,7 @@
     cx="970"
     cy="500"
     r="2.5"
-    fill="#DBF227"
+    fill="#fffb00"
     opacity="0"
   >
 
@@ -399,7 +399,7 @@
   font-size="76"
   font-weight="700"
   letter-spacing="2"
-  fill="#DBF227"
+  fill="#fffb00"
   opacity="0"
 >
 
@@ -471,7 +471,7 @@
   y1="390"
   x2="600"
   y2="390"
-  stroke="#DBF227"
+  stroke="#fffb00"
   stroke-width="2"
   stroke-linecap="round"
   opacity="0"

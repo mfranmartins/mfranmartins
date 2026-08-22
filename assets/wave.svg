@@ -44,13 +44,13 @@
 
   <!-- Main wave -->
   <g class="wave">
-    <use href="#wave" fill="#DBF227" opacity="0.9" />
-    <use href="#wave" x="1200" fill="#DBF227" opacity="0.9" />
+    <use href="#wave" fill="#fffb00" opacity="0.9" />
+    <use href="#wave" x="1200" fill="#fffb00" opacity="0.9" />
   </g>
 
   <!-- Secondary wave -->
   <g class="wave-slow">
-    <use href="#wave" y="10" fill="#DBF227" opacity="0.35" />
-    <use href="#wave" x="1200" y="10" fill="#DBF227" opacity="0.35" />
+    <use href="#wave" y="10" fill="#fffb00" opacity="0.35" />
+    <use href="#wave" x="1200" y="10" fill="#fffb00" opacity="0.35" />
   </g>
 </svg>
